@@ -4,7 +4,7 @@ import urllib
 import requests
 
 site = 'http://liivan.cf'
-sitemap = 'https://https://liivan.cf/sitemap.xml'
+sitemap = 'https://liivan.cf/sitemap.xml'
 
 listUrl = []
 bingData = {}
