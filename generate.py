@@ -3,8 +3,8 @@ import json
 import urllib
 import requests
 
-site = 'https://blog.jalenchuh.cn'
-sitemap = 'https://blog.jalenchuh.cn/sitemap.xml'
+site = 'http://liivan.cf'
+sitemap = 'https://https://liivan.cf/sitemap.xml'
 
 listUrl = []
 bingData = {}
