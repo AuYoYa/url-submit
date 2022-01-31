@@ -3,7 +3,7 @@ name: push
 on:
   push:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 0/4 * * *'
   watch:
     types: [started]
 
