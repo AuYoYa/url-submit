@@ -3,7 +3,7 @@ import json
 import urllib
 import requests
 
-site = 'http://liivan.cf'
+site = 'liivan.cf'
 sitemap = 'https://liivan.cf/sitemap.xml'
 
 listUrl = []
